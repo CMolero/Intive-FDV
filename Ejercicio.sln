@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive-FDV-Project", "Intive-FDV-Project\Intive-FDV-Project.csproj", "{DE21C2FD-F5B1-499D-AFF8-7D9F694AE23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intive-FDV-Test", "Intive-FDV-Test\Intive-FDV-Test.csproj", "{D06B4571-852C-45CF-9F14-58D2D55CDBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE21C2FD-F5B1-499D-AFF8-7D9F694AE23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE21C2FD-F5B1-499D-AFF8-7D9F694AE23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE21C2FD-F5B1-499D-AFF8-7D9F694AE23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE21C2FD-F5B1-499D-AFF8-7D9F694AE23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06B4571-852C-45CF-9F14-58D2D55CDBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06B4571-852C-45CF-9F14-58D2D55CDBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06B4571-852C-45CF-9F14-58D2D55CDBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06B4571-852C-45CF-9F14-58D2D55CDBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E747A403-81DC-42C7-BCB2-E5C93677F70C}
+	EndGlobalSection
+EndGlobal
